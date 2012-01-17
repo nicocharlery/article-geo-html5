@@ -23,10 +23,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="1" selection-start="93" selection-end="93" vertical-scroll-proportion="0.18518518">
+            <state line="2" column="19" selection-start="44" selection-end="53" vertical-scroll-proportion="-1.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="35" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="123" selection-start="228" selection-end="349" vertical-scroll-proportion="0.26010102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="environment.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environment.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="34" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -35,7 +62,7 @@
       <file leaf-file-name="html5geolocation.js.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/html5geolocation.js.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="33" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0">
+            <state line="3" column="69" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -44,7 +71,7 @@
       <file leaf-file-name="doThingWithGeoLocationVisitor.js.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/home/doThingWithGeoLocationVisitor.js.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="29" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+            <state line="2" column="16" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -66,15 +93,18 @@
       <list>
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/app/controllers/doThingWithGeoLocationVisitor.js.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/home.js.coffee" />
         <option value="$PROJECT_DIR$/app/views/home/home.js.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/home/doThingWithGeoLocationVisitor.js.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/home.js.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/html5geolocation.js.erb" />
+        <option value="$PROJECT_DIR$/config/environment.rb" />
+        <option value="$PROJECT_DIR$/config/initializers/geokit_config.rb" />
+        <option value="$PROJECT_DIR$/app/views/home/doThingWithGeoLocationVisitor.js.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
       </list>
     </option>
   </component>
@@ -127,6 +157,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ArticleGeoHTML5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ArticleGeoHTML5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ArticleGeoHTML5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ArticleGeoHTML5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ArticleGeoHTML5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="initializers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -530,6 +592,7 @@
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion_IDEA</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="TaskManager">
@@ -617,27 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="25" selection-start="45" selection-end="45" vertical-scroll-proportion="0.036674816">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="96" selection-start="139" selection-end="139" vertical-scroll-proportion="0.10817308">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="55" selection-start="241" selection-end="241" vertical-scroll-proportion="0.06993007">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="23" selection-start="178" selection-end="178" vertical-scroll-proportion="0.22222222">
@@ -645,23 +687,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/home/doThingWithGeoLocationVisitor.js.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="29" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+        <state line="2" column="55" selection-start="241" selection-end="241" vertical-scroll-proportion="0.07334963">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p0/gems/geokit-1.5.0/lib/geokit/geocoders.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="9" selection-start="1911" selection-end="1911" vertical-scroll-proportion="0.33173078">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/inflections.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/mime_types.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/secret_token.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/geokit_config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="51" selection-start="1613" selection-end="1613" vertical-scroll-proportion="0.45454547">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/html5geolocation.js.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0">
+        <state line="3" column="69" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="34" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/doThingWithGeoLocationVisitor.js.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="16" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="1" selection-start="93" selection-end="93" vertical-scroll-proportion="0.18518518">
+        <state line="2" column="19" selection-start="44" selection-end="53" vertical-scroll-proportion="-1.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="35" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="123" selection-start="228" selection-end="349" vertical-scroll-proportion="0.26010102">
           <folding />
         </state>
       </provider>

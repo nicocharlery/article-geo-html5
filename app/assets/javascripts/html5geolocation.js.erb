@@ -1,4 +1,4 @@
-var maPosition;
+var myPosition = new Array();
 
 $(document).ready(function() {
 
@@ -13,12 +13,8 @@ $(document).ready(function() {
 
 
     function onSuccess(position) {
-        var data = '';
-
-        data += 'latitude: ' + position.coords.latitude + '<br/>';
-        data += 'longitude: ' + position.coords.longitude;
-
-        maPosition = data;
+        myPosition[0] = position.coords.latitude;
+        myPosition[1] = position.coords.longitude;
     }
 
      function onError(err) {
@@ -47,7 +43,7 @@ $(function($) {
     $("#getLocation").click(function() {
         $.ajax({
             url: "/home/doThingWithGeoLocationVisitor",
-            data: 'msg=' + maPosition
+            data: 'lat=' + myPosition[0] +'&lon=' + myPosition[1]
         })
     });
 });
